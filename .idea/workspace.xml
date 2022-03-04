@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfd4622a-4360-4263-b7a0-f6080e055cb0" name="默认的" comment="" />
+    <list default="true" id="bfd4622a-4360-4263-b7a0-f6080e055cb0" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solutions/Ds.go" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions/Ds.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,22 +32,28 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Go File" />
         <option value="Go Application" />
+        <option value="Go File" />
       </list>
     </option>
   </component>
   <component name="GOROOT" path="E:/Golang" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="ProjectId" id="25mxjjfPYwlUWEwVhpgc2yybuKF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="新增" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
@@ -38,9 +66,17 @@
       <recent name="D:\Goprograms\src\LeetCode\Solutions" />
     </key>
   </component>
-  <component name="RunManager" selected="Go 构建.go build LeetCode/Table">
+  <component name="RunManager" selected="Go 构建.go build Debugger.go">
+    <configuration name="go build Debugger.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode_Solution" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Table/Debugger.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build LeetCode/Solutions" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="github.com/pxxxl/LeetCode_Solution" />
+      <module name="LeetCode_Solution" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
       <filePath value="$PROJECT_DIR$/Solutions/No.3.go" />
@@ -49,7 +85,7 @@
       <method v="2" />
     </configuration>
     <configuration name="go build LeetCode/Table" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="github.com/pxxxl/LeetCode_Solution" />
+      <module name="LeetCode_Solution" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
       <filePath value="$PROJECT_DIR$/Table/Debugger.go" />
@@ -59,6 +95,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go 构建.go build Debugger.go" />
         <item itemvalue="Go 构建.go build LeetCode/Table" />
         <item itemvalue="Go 构建.go build LeetCode/Solutions" />
       </list>
@@ -68,31 +105,57 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="374" y="168" key="#Notifications" timestamp="1646232644607">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="374" y="168" key="#Notifications/0.0.1280.689@0.0.1280.689" timestamp="1646232644607" />
-    <state x="487" y="146" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1646181343550">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1646396873619">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="487" y="146" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.689@0.0.1280.689" timestamp="1646181343550" />
-    <state width="1237" height="208" key="GridCell.Tab.0.bottom" timestamp="1646234965302">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689@0.0.1280.689" timestamp="1646396873619" />
+    <state x="487" y="146" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1646396865838">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="208" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1646234965302" />
-    <state width="1237" height="208" key="GridCell.Tab.0.center" timestamp="1646234965302">
+    <state x="487" y="146" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.689@0.0.1280.689" timestamp="1646396865838" />
+    <state x="461" y="243" width="359" height="245" key="Github.ShareDialog" timestamp="1646282389803">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="208" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1646234965302" />
-    <state width="1237" height="208" key="GridCell.Tab.0.left" timestamp="1646234965302">
+    <state x="461" y="243" width="359" height="245" key="Github.ShareDialog/0.0.1280.689@0.0.1280.689" timestamp="1646282389803" />
+    <state x="478" y="50" key="Github.UntrackedFilesDialog" timestamp="1646282400189">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="208" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1646234965302" />
-    <state width="1237" height="208" key="GridCell.Tab.0.right" timestamp="1646234965302">
+    <state x="478" y="50" key="Github.UntrackedFilesDialog/0.0.1280.689@0.0.1280.689" timestamp="1646282400189" />
+    <state width="1237" height="166" key="GridCell.Tab.0.bottom" timestamp="1646404070330">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="208" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1646234965302" />
+    <state width="1237" height="166" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1646404070330" />
+    <state width="1237" height="166" key="GridCell.Tab.0.center" timestamp="1646404070330">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1646404070330" />
+    <state width="1237" height="166" key="GridCell.Tab.0.left" timestamp="1646404070330">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1646404070330" />
+    <state width="1237" height="166" key="GridCell.Tab.0.right" timestamp="1646404070330">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1646404070330" />
     <state width="1237" height="208" key="GridCell.Tab.1.bottom" timestamp="1646234965302">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
@@ -113,9 +176,9 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1646282141250" />
-    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup" timestamp="1646194675417">
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup" timestamp="1646398857372">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1646194675417" />
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1646398857372" />
   </component>
 </project>
